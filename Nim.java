@@ -1,7 +1,3 @@
-//Kristoffer Danbrant
-//studentid krda1698 @ Uppsala University
-//e-post: k.danbrant@icloud.com
-
 package NimGame;
 import java.util.Scanner;
 public class Nim {

@@ -1,6 +1,3 @@
-//studentid krda1698 @ Uppsala University
-//e-post: k.danbrant@icloud.com
-
 package NimGame;
 
 public class gameHandler {

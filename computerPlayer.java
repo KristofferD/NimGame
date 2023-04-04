@@ -1,8 +1,6 @@
-//studentid krda1698 @ Uppsala University
-//e-post: k.danbrant@icloud.com
+package NimGame;
 
 import java.util.Random;
-package NimGame;
 
 public class computerPlayer extends player {
     public computerPlayer(String name) {
